@@ -1,4 +1,4 @@
-If you are viewing this inside a collaborative environment or coding workspace that has a built-in preview pane, you can often just click a button like "Preview," "Run," or "Show Webpage" to see the game immediately.
+Option 1: If you are viewing this inside a collaborative environment or coding workspace that has a built-in preview pane, you can often just click a button like "Preview," "Run," or "Show Webpage" to see the game immediately.
 
 Option 2: Save as an HTML File on Your Computer
 This is the standard way to run any simple web game locally:
