@@ -1,3 +1,5 @@
+Reminder: this is an inspiration, so feel free to remix and tweak the code.
+
 Option 1: If you are viewing this inside a collaborative environment or coding workspace that has a built-in preview pane, you can often just click a button like "Preview," "Run," or "Show Webpage" to see the game immediately.
 
 Option 2: Save as an HTML File on Your Computer
@@ -20,4 +22,4 @@ Go to a site like CodePen or JSFiddle.
 
 Paste all the code I gave you into the HTML box.
 
-The game should automatically appear and be playable in the "Result" or "Preview" window!
+The game should automatically appear and be playable in the "Result" or "Preview" window.
